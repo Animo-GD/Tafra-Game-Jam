@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b919eaf1b090e54499d0fab55c0001c9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Hotel.unity
+    guid: 286892838f7827941be44194f0b94bf1
+  - enabled: 1
+    path: Assets/Scenes/BedRoom.unity
+    guid: bd2f6dc2f353ec74e9e5179d37f8c170
+  - enabled: 1
+    path: Assets/Scenes/Dream.unity
+    guid: 3c46d0909e8e19e40ba97a684dd214a6
+  - enabled: 1
+    path: Assets/Scenes/FirstCallPhone.unity
+    guid: 5446be463cd71c24fbca2a85bd09619b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 6b15f5e4189a27c47abfcb0a9f5c64fc
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 3dacfc3bb987ae24a951027d74dc5f03
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: f639390f9ceb5234ba3fd9c2381cc032
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 908afccfc5dff77448c035c3a2005282
+  - enabled: 1
+    path: Assets/Scenes/Forest2.unity
+    guid: 38bd4e8d448c9cb46942f29afaa0ced4
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 6fb578b382376fc41bc0cc41e866fad5
+  m_configObjects: {}
